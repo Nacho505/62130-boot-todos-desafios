@@ -1,0 +1,53 @@
+h1 {
+  font-size: 40px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: #fcea3e;
+  text-align: center;
+  font-weight: bolder;
+}
+body {
+  background-color: #289688;
+  text-align: center;
+}
+
+img {
+  border: 8px solid white;
+  border-color: white;
+  width: auto;
+  height: 138px;
+}
+#barcelona {
+  margin: 4px;
+}
+#aires {
+  margin: 4px;
+}
+
+#madrid {
+  margin: 4px;
+}
+
+#miami {
+  margin: 4px;
+}
+#paris {
+  margin: 4px;
+}
+
+#pipa {
+  margin: 4px;
+}
+
+#rio {
+  margin: 4px;
+}
+#roma {
+  margin: 4px;
+}
+#rosario {
+  margin: 4px;
+}
+
+#tokio {
+  margin: 4px;
+}
